@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ---
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Halo,%20Saya%20WAHYU%20AJI!&fontSize=70&animation=fadein)
 
----
 <!--- # 👋 Halo, Saya WAHYU AJI! --->
 
 Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus pada pengembangan perangkat lunak dan jaringan.
