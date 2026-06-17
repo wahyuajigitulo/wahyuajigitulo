@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!---
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Halo,%20Saya%20WAHYU%20AJI!&fontSize=70&animation=fadein)
+# 👋 Halo, Saya Wahyu Aji!
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm+Fake+Coder!&fontSize=70&animation=fadein)
 
 
 Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus pada pengembangan perangkat lunak dan jaringan.
@@ -57,16 +57,16 @@ Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus
 - 📫 How to contact me: [hidden!]
 - ⚡ Fun fact: I'm currently imagining this!
 
--->
+<!---
 # 👋 Halo, Saya Wahyu!
 
 <p align="center">
-  <!-- HEADER BANNER AURORA -->
+  <!-- [HEADER BANNER AURORA]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Fake+Coder&fontSize=75&animation=fadeIn" width="100%" alt="Header Aurora" />
 </p>
 
 <p align="center">
-  <!-- TYPEWRITER EFFECT ANIMAASI -->
+  <!-- TYPEWRITER[ EFFECT ANIMAASI]
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FFCC&multiline=true&center=true&vCenter=true&width=600&height=90&lines=Network+Engineer+Enthusiast+🌐;Graphic+%26+Apparel+Designer+🎨;Future+Informatics+Student+🚀" alt="Typing SVG" />
   </a>
@@ -116,3 +116,4 @@ Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus
 <p align="center">
   <b>Terima kasih sudah berkunjung! Mari terhubung dan berkolaborasi.</b>
 </p>
+--->
