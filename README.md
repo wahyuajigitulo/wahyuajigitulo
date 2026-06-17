@@ -14,4 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=wahyuajigitulo&show_icons=true&theme=radial)
+# 👋 Halo, Saya [Nama Kamu]!
+
+Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus pada pengembangan perangkat lunak dan jaringan.
+
+---
+
+### 📊 Statistik GitHub Saya
+
+| | |
+| --- | --- |
+| ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=wahyuajigitulo&show_icons=true&theme=dark) | ![Bahasa Terbanyak](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuajigitulo&layout=compact&theme=dark) |
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyuajigitulo&theme=dark)
+
+---
+
+### 🛠️ Teknologi & Tools yang Digunakan
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 Aktivitas GitHub
+
+![Grafik Kontribusi](https://github-readme-activity-graph.vercel.app/graph?username=wahyuajigitulo&theme=github-dark)
