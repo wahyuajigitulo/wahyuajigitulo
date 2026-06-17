@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 
 <!--
@@ -32,6 +33,7 @@ Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus
 
 ### 🛠️ Teknologi & Tools yang Digunakan
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -41,3 +43,14 @@ Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus
 ### 📈 Aktivitas GitHub
 
 ![Grafik Kontribusi](https://github-readme-activity-graph.vercel.app/graph?username=wahyuajigitulo&theme=github-dark)
+
+---
+
+### 💡INFO PENTING 💡
+- 🔭 I'm not currently working on it
+- 🌱 I'm currently learning how to make it happen
+- 👯 I'd love to collaborate
+- 🤔 I need help
+- 💬 Ask me a question
+- 📫 How to contact me: [hidden!]
+- ⚡ Fun fact: I'm currently imagining this!
