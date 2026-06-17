@@ -15,12 +15,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Halo, Saya WAHYU AJI!
+
+---
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Halo,%20Saya%20WAHYU%20AJI!&fontSize=70&animation=fadein)
+
+---
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=BD00FF&multiline=true&center=true&vCenter=true&width=500&height=100&lines=Halo+semua!+👋;Selamat+datang+di+GitHub+saya;Saya+senang+belajar+hal+baru+✨" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+<!--- # 👋 Halo, Saya WAHYU AJI! --->
 
 Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus pada pengembangan perangkat lunak dan jaringan.
 
 ---
-
 ### 📊 Statistik GitHub Saya
 
 | | |
