@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Halo, Saya [Nama Kamu]!
+# 👋 Halo, Saya WAHYU AJI!
 
 Selamat datang di profil GitHub saya. Saya seorang antusias teknologi yang fokus pada pengembangan perangkat lunak dan jaringan.
 
